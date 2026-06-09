@@ -1,7 +1,7 @@
 # OmniGuard — AI-Powered Security Operations Center
 
 <p align="center">
-  <img src="assets/screenshots/Overview_Screen1.png" alt="OmniGuard SOC Dashboard" width="100%" />
+  <img src="assets/Overview_Screen1.png" alt="OmniGuard SOC Dashboard" width="100%" />
 </p>
 
 <p align="center">
