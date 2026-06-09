@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+psutil
+pywin32
+scapy
+scikit-learn
+numpy
+reportlab
+requests
+python-multipart
+elasticsearch
+apscheduler

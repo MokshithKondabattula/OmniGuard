@@ -1,0 +1,12 @@
+{
+  "name": "OmniGuard SOC",
+  "short_name": "OmniGuard",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0f17",
+  "theme_color": "#0b0f17",
+  "description": "AI-powered SOC dashboard",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": []
+}
